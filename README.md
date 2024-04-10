@@ -17,9 +17,8 @@ Projeto RASPBERRYPI4 copilação de um ambientes yocto,update do kernel e acesso
      
      git clone -b kirkstone git://git.yoctoproject.org/poky.git
   
- 3 - Baixar as metas do projeto:
-  
-     vá para pasta poky
+ 3 - Baixar as metas do projeto
+     vá para pasta poky:
   
      dentro da pasta poky faça os seguintes git clone:
 
