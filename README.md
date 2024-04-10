@@ -25,6 +25,9 @@ zstd liblz4-tool
 
 
   salve e saia do nano.
+
+  execute:
+   . export
   
 
   
