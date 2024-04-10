@@ -29,7 +29,8 @@ zstd liblz4-tool
   execute:
    . export
   
-  será criado uma pasta build e voçê sera direcionado para ela
+  será criado uma pasta build e voçê sera direcionado para ela.
+  Dentro da pasta build tera outras subpastas entre dentro da pasta conf e su
   
   
 
