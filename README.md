@@ -16,12 +16,14 @@ zstd liblz4-tool
   git clone -b kirkstone git://git.yoctoproject.org/poky.git
   Dentro da pasta crie um arquivo com o nome de export,exemplo touch export
   abra esse arquivo com o nano e edite cole as seguintes instruções:
-  ###################################################################
+
+
   #!/bin/sh
   BUILDDIR="../build"
   cd poky
 . ./oe-init-build-env ${BUILDDIR}
- ####################################################################
+
+
   salve e saia do nano.
   
 
