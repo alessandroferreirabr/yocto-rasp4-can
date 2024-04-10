@@ -1,0 +1,21 @@
+GPIO     rpi4        CAN mcp2515
+HEADR   SIGNAL     MODULE
+PIN      NAME  --- SIGNAL
+#01       3,3V --- VCC
+#02         5V --- Extra wire to Vcc TJA1050
+#06        GND --- GND
+#19       MOSI --- SI
+#21       MISO --- SO
+#23       SCLK --- SCK/CLK
+#24   SPI0.CE0 --- CS
+#32     GPIO12 --- INT
+
+
+
+
+cortar essa trilha e soldar o fio de 5v para o transceptor conforme a foto
+
+
+duvidas verifique este link
+
+https://forums.raspberrypi.com/viewtopic.php?t=141052
