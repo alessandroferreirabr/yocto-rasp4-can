@@ -18,7 +18,7 @@ zstd liblz4-tool
   
 3 - Baixar as metas do projeto:
   
-  vá a pasta poky
+  vá para poky
   
   dentro da pasta poky faça os seguintes git clone:
 
